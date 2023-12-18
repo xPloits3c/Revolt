@@ -29,12 +29,12 @@ red='\e[1;31m'
 figlet  REVOLT | lolcat
 
 echo  "[i] REVOLT                                   _______" | lolcat
-echo  "[i] IN CODE WE TRUST                        |.-----.|" |lolcat
+echo  "[i] IN CODE WE TRUST                        |.-----.|" | lolcat
 echo  "[i] NR.T00LS : 30                           ||V . V||" | lolcat 
 echo  "[i] VERSION  : v1.0                         ||_.-._||" | lolcat
 echo  "[i] AUTHOR   : xPloits3c                    °--)-(--°" | lolcat
-echo  "╭─ 📁 The Installed tools are in /revolt  __[===-o]___" | lolcat
-echo  "╰─ 🌐 https://github.com/xPloits3c/      |__R3VCLT___)| $green " | lolcat
+echo  "╭─  The Installed tools are in /revolt  __[===-o]___" | lolcat
+echo  "╰─  https://github.com/xPloits3c/      |__R3VCLT___)| $green " | lolcat
 echo  "°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°" | lolcat
 
 
@@ -46,10 +46,10 @@ sleep 1
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo $green"[#]>🕷️I'M IN YOUR SYSTEM" | lolcat
+echo $green"[#]> I'M IN YOUR SYSTEM" | lolcat
 sleep 1
 
-echo $green"[#]>📁 The Installed tools are in /revolt" | lolcat
+echo $green"[#]> The Installed tools are in /revolt" | lolcat
 figlet REVOLT | lolcat
 sleep 1
 exit
@@ -71,146 +71,146 @@ echo ""
 echo -e "########################################################" | lolcat
 echo -e "#                         T00LS                        #" | lolcat
 echo -e "########################################################" | lolcat
-echo -e $b "🔻 1. Nmap                                             |${endcla}";
+echo -e $b "[+] 1. Nmap                                            |${endcla}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Network Mapper                                     |${endcla}";
 echo -e $b "[i] Port Scanner                                       |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 2. RED_HAWK                                         |${enda}";
+echo -e $b "[+] 2. RED_HAWK                                        |${enda}";
 echo -e $b "-------------------------------------------------------|${enda}";
-echo -e $b "🔻 All in one tool for Information Gathering           |${enda}";
+echo -e $b "[i] All in one tool for Information Gathering          |${enda}";
 echo -e $b "[i] Vulnerability Scanning                             |${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 3. SQLMap                                           |${enda}";
+echo -e $b "[+] 3. SQLMap                                          |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] SQLMap automates penetration testing tool.         |${endcla}";
 echo -e $b "[i] Exploiting SQL injection.                          |${endcla}";
 echo -e $b "[i] Taking database servers.                           |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 4. Sn1per                                           |${enda}";
+echo -e $b "[+] 4. Sn1per                                          |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Attack Surface Management Platform.                |${endcla}";
 echo -e $b "[i] Discover hidden assets & vulnerabilities.          |${endcla}";
 echo -e $b "[i] Automate the most powerful tools.                  |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 5. Sherlock                                         |${enda}";
+echo -e $b "[+] 5. Sherlock                                        |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Hunt down social media accounts by username.       |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 6. MSFConsole -metasploit-framework                 |${enda}";
+echo -e $b "[+] 6. MSFConsole -metasploit-framework                |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Metasploit can do all sorts of things.             |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 7. Hackertarget                                     |${enda}";
+echo -e $b "[+] 7. Hackertarget                                    |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Open source tools and network intelligence.        |${endcla}";
 echo -e $b "[i] Discovery & identif. security vulnerabilities.     |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 8. Geo-Recon                                        |${enda}";
+echo -e $b "[+] 8. Geo-Recon                                       |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] An OSINT CLI tool desgined to fast track IP.       |${endcla}";
 echo -e $b "[i] Geo-locaton look up for Security Analysts.         |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 9. Darkai                                           |${enda}";
+echo -e $b "[+] 9. Darkai                                          |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Over 300 hacking tools.                            |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 10. Anonsec                                         |${enda}";
+echo -e $b "[+] 10. Anonsec                                        |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] DDoS Tool.                                         |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 11. AnonSecIta-DDoS                                 |${enda}";
+echo -e $b "[+] 11. AnonSecIta-DDoS                                |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] DDoS Tool L7 L4.                                   |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 12. DDoS-Ripper                                     |${enda}";
+echo -e $b "[+] 12. DDoS-Ripper                                    |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] DDoS Tool.                                         |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 13. THC-Hydra                                       |${enda}";
+echo -e $b "[+] 13. THC-Hydra                                      |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Hacking Password Tool.                             |${endcla}";
 echo -e $b "[i] This tool is a proof of concept code.              |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 14. KARMA DDoS                                      |${enda}";
+echo -e $b "[+] 14. KARMA DDoS                                     |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] DDoS Tool L7 L4.                                   |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 15. MHDDoS                                          |${enda}";
+echo -e $b "[+] 15. MHDDoS                                         |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] DDoS Tool.                                         |${endcla}";
 echo -e $b "[i] DDoS Attack Script With 56 Methods.                |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 16. White Deface                                   |${enda}";
-echo -e $b "--------------------------- ----------------------------|${endcla}";
+echo -e $b "[+] 16. White Deface                                   |${enda}";
+echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Automatically deface vulnerable websites.          |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 17. Mass Deface                                     |${enda}";
+echo -e $b "[+] 17. Mass Deface                                    |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Here defaces all the website on the list.          |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 18. PHPSploit                                       |${enda}";
+echo -e $b "[+] 18. PHPSploit                                      |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Full-featured C2 framework.                        |${endcla}";
 echo -e $b "[i] Persists on webserver PHP backdoor.                |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 19. WPScan                                          |${enda}";
+echo -e $b "[+] 19. WPScan                                         |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] WordPress Security Scanner.                        |${endcla}";
 echo -e $b "[i] WordPress Vulnerability Scanner.                   |${endcla}";
 echo -e $b "[i] WordPress Database Scanner.                        |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 20. MySQL                                           |${enda}";
+echo -e $b "[+] 20. MySQL                                          |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Dump Sensitive Servers Table.                      |${endcla}";
 echo -e $b "[i] Database Management System.                        |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 21. Blindy                                          |${enda}";
+echo -e $b "[+] 21. Blindy                                         |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Brute-Force Blind MySql Injection.                 |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 22. Universal-Bypass                                |${enda}";
+echo -e $b "[+] 22. Universal-Bypass                               |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] A Tool to bypass 403/401.                          |${endcla}";
 echo -e $b "[i] Contain all the possible techniques to bypass.     |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 23. Joomscan                                        |${enda}";
+echo -e $b "[+] 23. Joomscan                                       |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Vulnerability Scanner (JoomScan).                  |${endcla}";
 echo -e $b "[i] Automating Vulnerability Detection.                |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 24. Dark Dump                                       |${enda}";
+echo -e $b "[+] 24. Dark Dump                                      |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Search The Deep Web Straight From Your Terminal.   |${endcla}";
 echo -e $b "[i] DarkWeb-ONION DORK.                                |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 25. Dark Scrape                                     |${enda}";
+echo -e $b "[+] 25. Dark Scrape                                    |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] OSINT Tool to find the Media Links in Tor Sites.   |${endcla}";
 echo -e $b "[i] DarkWeb-ONION DORK.                                |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 26. Dorks Eye                                       |${enda}";
+echo -e $b "[+] 26. Dorks Eye                                      |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Google Dork Scraping and Searching Script.         |${endcla}";
 echo -e $b "[i] Collects potentially vulnerable web pages.         |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 27. Fsociety                                        |${enda}";
+echo -e $b "[+] 27. Fsociety                                       |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] All Tools Mr.Robot Series.                         |${endcla}";
 echo -e $b "[i] A Penetration Testing Framework.                   |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 28. XSS-Loader                                      |${enda}";
+echo -e $b "[+] 28. XSS-Loader                                     |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] PAYLOAD GENERATOR.                                 |${endcla}";
 echo -e $b "[i] All in one tools for XSS PAYLOAD GENERATOR.        |${endcla}";
 echo -e $b "[i] XSS SCANNER | XSS DORK FINDER.                     |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 29. XSStrike                                        |${enda}";
+echo -e $b "[+] 29. XSStrike                                       |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Advanced XSS Detection Suite.                      |${endcla}";
 echo -e $b "[i] Instead of injecting payloads.                     |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 30. XSScrapy                                        |${enda}";
+echo -e $b "[+] 30. XSScrapy                                       |${enda}";
 echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Fast, thorough, XSS/SQLi spider..                  |${endcla}";
 echo -e $b "[i] Give it a URL and it'll test every link.           |${endcla}";
@@ -227,7 +227,7 @@ read -p "╰→xPloits3c@revolt:" pil;
 #Revolt
 
 case $pil in
-# Install revolt_db
+#Install revolt_db
 
 01) git clone https://github.com/xPloits3c/revolt_db.git 
 echo -e "${y} -------------------------------"
