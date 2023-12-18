@@ -26,7 +26,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet  REVOLT | lolcat
+figlet REVOLT | lolcat
 
 echo  "[i] REVOLT                                   _______" | lolcat
 echo  "[i] IN CODE WE TRUST                        |.-----.|" |lolcat
@@ -50,7 +50,7 @@ echo $green"[#]>🕷️I'M IN YOUR SYSTEM" |lolcat
 sleep 1
 
 echo $green"[#]>📁 The Installed tools are in /revolt" |lolcat
-figlet REVOLT | lolcat
+figlet  REVOLT | lolcat
 sleep 1
 exit
 }
