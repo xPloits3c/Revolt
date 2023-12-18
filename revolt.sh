@@ -78,7 +78,7 @@ echo -e $b "[i] Port Scanner                                       |${endcla}";
 echo -e "========================================================" | lolcat
 echo -e $b "🔻 2. RED_HAWK                                         |${enda}";
 echo -e $b "-------------------------------------------------------|${enda}";
-echo -e $b "🔻 All in one tool for Information Gathering          |${enda}";
+echo -e $b "[i] All in one tool for Information Gathering          |${enda}";
 echo -e $b "[i] Vulnerability Scanning                             |${enda}";
 echo -e "========================================================" | lolcat
 echo -e $b "🔻 3. SQLMap                                           |${enda}";
@@ -227,7 +227,7 @@ read -p "╰→xPloits3c@revolt:" pil;
 #Revolt
 
 case $pil in
-# Install revolt_db
+#Install revolt_db
 
 01) git clone https://github.com/xPloits3c/revolt_db.git 
 echo -e "${y} -------------------------------"
@@ -235,7 +235,7 @@ echo -e "${y} [1] cd revolt_db"
 echo -e "${y} -------------------------------"
 echo -e "${y} ########### EXAMPLE ###########"
 echo -e "${y} -------------------------------"
-echo -e "${y} [i] Have fun.sh${endc}"
+echo -e "${y} [i] Hacking time!${endc}"
 
 echo
 
