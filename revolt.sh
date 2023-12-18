@@ -1,5 +1,5 @@
 #!/bin/bash
-#version 1.0
+#v1.0
 
 #COSA VUOI FARE?:V
 #db_Tool by xPloits3c
@@ -33,8 +33,8 @@ echo  "[i] IN CODE WE TRUST                        |.-----.|" |lolcat
 echo  "[i] NR.T00LS : 30                           ||V . V||" | lolcat 
 echo  "[i] VERSION  : v1.0                         ||_.-._||" | lolcat
 echo  "[i] AUTHOR   : xPloits3c                    °--)-(--°" | lolcat
-echo  "╭─ 📁 The Installed tools are in /revolt  __[===-o]___" |lolcat
-echo  "╰─ 🌐 https://github.com/xPloits3c/      |__R3VCLT___)| $green " |lolcat
+echo  "╭─ 📁 The Installed tools are in /revolt  __[===-o]___" | lolcat
+echo  "╰─ 🌐 https://github.com/xPloits3c/      |__R3VCLT___)| $green " | lolcat
 echo  "°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°" | lolcat
 
 
@@ -46,10 +46,10 @@ sleep 1
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo $green"[#]>🕷️I'M IN YOUR SYSTEM" |lolcat
+echo $green"[#]>🕷️I'M IN YOUR SYSTEM" | lolcat
 sleep 1
 
-echo $green"[#]>📁 The Installed tools are in /revolt" |lolcat
+echo $green"[#]>📁 The Installed tools are in /revolt" | lolcat
 figlet REVOLT | lolcat
 sleep 1
 exit
@@ -78,7 +78,7 @@ echo -e $b "[i] Port Scanner                                       |${endcla}";
 echo -e "========================================================" | lolcat
 echo -e $b "🔻 2. RED_HAWK                                         |${enda}";
 echo -e $b "-------------------------------------------------------|${enda}";
-echo -e $b "🔻 All in one tool for Information Gathering          |${enda}";
+echo -e $b "🔻 All in one tool for Information Gathering           |${enda}";
 echo -e $b "[i] Vulnerability Scanning                             |${enda}";
 echo -e "========================================================" | lolcat
 echo -e $b "🔻 3. SQLMap                                           |${enda}";
@@ -235,7 +235,7 @@ echo -e "${y} [1] cd revolt_db"
 echo -e "${y} -------------------------------"
 echo -e "${y} ########### EXAMPLE ###########"
 echo -e "${y} -------------------------------"
-echo -e "${y} [i] Have fun.sh${endc}"
+echo -e "${y} [i] Have fun${endc}"
 
 echo
 
