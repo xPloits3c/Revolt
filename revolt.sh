@@ -33,8 +33,8 @@ echo  "[i] IN CODE WE TRUST                        |.-----.|" |lolcat
 echo  "[i] NR.T00LS : 30                           ||V . V||" | lolcat 
 echo  "[i] VERSION  : v1.0                         ||_.-._||" | lolcat
 echo  "[i] AUTHOR   : xPloits3c                    °--)-(--°" | lolcat
-echo  "╭─ 📁 The Installed tools are in /Revolt   __[===-o]___" |lolcat
-echo  "╰─ 🌐 twitter.com/AnonSecIta              |__R3VCLT___)| $green " |lolcat
+echo  "╭─ 🌐 https://github.com/xPloits3c/Revolt  __[===-o]___" |lolcat
+echo  "╰─ 🌐 https://twitter.com/AnonSecIta      |__R3VCLT___)| $green " |lolcat
 echo  "°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°" | lolcat
 
 
@@ -221,7 +221,7 @@ echo -e $b " ❌ 00. EXIT                                           |${enda}";
 echo -e $b " 💣 01. INSTALL ALL                                    |${enda}";
 echo -e $b " 📁 The Installed tools are in /Revolt                 |${enda}";
 echo -e "========================================================" | lolcat
-echo -e "╭─[Type NR to install]"
+echo -e "╭─[Type NR 2 install]"
 read -p "╰→xPloits3c@revolt:" pil;
 
 #Revolt
