@@ -10,8 +10,9 @@
 ![allthetoolsyouneed](https://github.com/xPloits3c/Revolt/assets/153435050/5fd446b9-2b1e-4994-b68b-c66a74a52821)
 
 # Choose and install
-- You can install one at a time. (Type nr to install.)
-- You can install all package. (Type 01 to install all.)
+- You can install one at a time. (Type a nr to install)
+- You can install all package. (Type 01 to install all)
+ 
 ![sceglieinstalla](https://github.com/xPloits3c/Revolt/assets/153435050/4a9c16ad-8acd-4291-b7a2-ee0d97c9948c)
 
 # Requirements
@@ -20,19 +21,23 @@
 
 # Install Requirements
 - Update
+
 ![sudoupdate](https://github.com/xPloits3c/Revolt/assets/153435050/58f11b7f-47a5-42a3-9c9e-4c1b7e32cc20)
 sudo apt-get update
 
 - Install bash Using apt-get.
+ 
 ![installbash](https://github.com/xPloits3c/Revolt/assets/153435050/e201f289-136a-483c-b715-935a49b28762)
 sudo apt-get -y install bash
 
 - Install python3-colorama Using apt-get.
+ 
 ![installcolorama](https://github.com/xPloits3c/Revolt/assets/153435050/8a29da90-c765-4b39-845c-736d2d8d6dea)
 sudo apt-get -y install python3-colorama
-
+ 
 # Install Revolt
 ![gitrevolt](https://github.com/xPloits3c/Revolt/assets/153435050/81bb2f8a-f840-423e-ba58-0b7721e26fe9)
+ 
 git clone https://github.com/xPloits3c/Revolt.git
 
 # Usage
