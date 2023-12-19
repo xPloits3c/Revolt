@@ -45,7 +45,8 @@ git clone https://github.com/xPloits3c/Revolt.git
 - 19 (WPScan) 
 - '01' to install all.
  
-![01install](https://github.com/xPloits3c/Revolt/assets/153435050/26e69bc0-c395-4bb4-90e3-3c48d4e15b83)
+![revoltnrinstall](https://github.com/xPloits3c/Revolt/assets/153435050/baeed44b-e5cd-4cd0-a80b-52d397ca38c6)
+
 
 # If u Like the project, leave a star on the repository!
 ![github_logo-602056228](https://github.com/xPloits3c/Revolt/assets/153435050/58620e25-748f-44ea-80a9-fc3797fcfa49)
