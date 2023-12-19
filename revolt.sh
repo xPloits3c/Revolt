@@ -46,7 +46,7 @@ sleep 1
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo $green"[#]> 🕷 I'M IN YOUR SYSTEM" |lolcat
+echo $green"[#]> 🕷️ I'M IN YOUR SYSTEM" |lolcat
 sleep 1
 
 echo $green"[#]> 📁 The Installed tools are in /Revolt" |lolcat
@@ -774,9 +774,9 @@ echo -e "${y} -------------------------------"
 
 ;;
 
-00) echo "🔴REVOLT" | lolcat
-echo "🕷️ I'M IN YOUR SYSTEM" | lolcat
-echo "📁 The Installed tools are in /Revolt" | lolcat
+00) echo "🔴 REVOLT" | lolcat
+echo "[#]> 🕷️ I'M IN YOUR SYSTEM" | lolcat
+echo "[#]> 📁 The Installed tools are in /Revolt" | lolcat
 figlet REVOLT | lolcat
 exit
 ;;
