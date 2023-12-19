@@ -774,7 +774,7 @@ echo -e "${y} -------------------------------"
 
 ;;
 
-00) echo "🔴 REVOLT" | lolcat
+00) echo "[#]> 🔴 REVOLT" | lolcat
 echo "[#]> 🕷️ I'M IN YOUR SYSTEM" | lolcat
 echo "[#]> 📁 The Installed tools are in /Revolt" | lolcat
 figlet REVOLT | lolcat
