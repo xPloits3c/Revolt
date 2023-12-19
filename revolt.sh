@@ -217,9 +217,9 @@ echo -e $b "[i] Give it a URL and it'll test every link.           |${endcla}";
 echo -e $b "[i] Search cross-site scripting.                       |${endcla}";
 echo -e $b "[i] Search SQL injection vulnerabilities.              |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "❌ 00. EXIT                                           |${enda}";
-echo -e $b "💣 01. INSTALL ALL                                    |${enda}";
-echo -e $b "📁 The Installed tools are in /Revolt                 |${enda}";
+echo -e $b "❌ 00. EXIT                                            |${enda}";
+echo -e $b "💣 01. INSTALL ALL                                     |${enda}";
+echo -e $b "📁 The Installed tools are in /Revolt                  |${enda}";
 echo -e "========================================================" | lolcat
 echo -e "╭─[Type-NR]"
 read -p "╰→xPloits3c@revolt:" pil;
