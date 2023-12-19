@@ -25,11 +25,11 @@
 ![sudoupdate](https://github.com/xPloits3c/Revolt/assets/153435050/58f11b7f-47a5-42a3-9c9e-4c1b7e32cc20)
 sudo apt-get update
 
-- Install bash Using apt-get. ![installbash](https://github.com/xPloits3c/Revolt/assets/153435050/e201f289-136a-483c-b715-935a49b28762)
+- Install bash Using apt-get.   ![installbash](https://github.com/xPloits3c/Revolt/assets/153435050/e201f289-136a-483c-b715-935a49b28762)
  
 sudo apt-get -y install bash
 
-- Install python3-colorama Using apt-get. ![installcolorama](https://github.com/xPloits3c/Revolt/assets/153435050/8a29da90-c765-4b39-845c-736d2d8d6dea)
+- Install python3-colorama Using apt-get.   ![installcolorama](https://github.com/xPloits3c/Revolt/assets/153435050/8a29da90-c765-4b39-845c-736d2d8d6dea)
  
 sudo apt-get -y install python3-colorama
  
@@ -40,9 +40,11 @@ git clone https://github.com/xPloits3c/Revolt.git
 
 # Usage
 cd Revolt
+
 bash revolt.sh
 
 - Type a number.
+  
 24 (Dark-Dump)
 19 (WPScan)
 - Type number '01' to install all.
