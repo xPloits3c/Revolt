@@ -3,7 +3,7 @@
 
 #COSA VUOI FARE?:V
 #db_Tool by xPloits3c
-#FUCK THE SYSTEM
+#KeepCalm&RunTheRevolt
 #EXPECT US
 
 
@@ -28,12 +28,12 @@ red='\e[1;31m'
 
 figlet  REVOLT | lolcat
 
-echo  "[i] REVOLT                                   _______" | lolcat
-echo  "[i] IN CODE WE TRUST                        |.-----.|" |lolcat
+echo  "[i] AUTHOR   : xPloits3c                     _______" | lolcat
+echo  "[i] IN CODE  : WE TRUST                     |.-----.|" |lolcat
 echo  "[i] NR.T00LS : 30                           ||V . V||" | lolcat 
 echo  "[i] VERSION  : v1.0                         ||_.-._||" | lolcat
-echo  "[i] AUTHOR   : xPloits3c                    °--)-(--°" | lolcat
-echo  "╭─ 🌐 https://github.com/xPloits3c/Revolt  __[===-o]___" |lolcat
+echo  "╭─ 📁 The Installed tools are in /Revolt    °--)-(--°" | lolcat
+echo  "|─ 🌐 https://github.com/xPloits3c/Revolt  __[===-o]___" |lolcat
 echo  "╰─ 🌐 https://twitter.com/AnonSecIta      |__R3VCLT___)| $green " |lolcat
 echo  "°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°" | lolcat
 
