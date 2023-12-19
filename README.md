@@ -44,12 +44,14 @@ cd Revolt
 bash revolt.sh
 
  
-- Type a number.
+# Type a number.
   
 24 (Dark-Dump)
  
 19 (WPScan)
-- Type number '01' to install all.
+ 
+01 to install all.
+ 
 ![01install](https://github.com/xPloits3c/Revolt/assets/153435050/26e69bc0-c395-4bb4-90e3-3c48d4e15b83)
 
 # If u Like the project, leave a star on the repository!
