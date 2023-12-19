@@ -141,8 +141,8 @@ echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] DDoS Tool.                                         |${endcla}";
 echo -e $b "[i] DDoS Attack Script With 56 Methods.                |${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "🔻 16. White Deface                                   |${enda}";
-echo -e $b "--------------------------- ----------------------------|${endcla}";
+echo -e $b "🔻 16. White Deface                                    |${enda}";
+echo -e $b "-------------------------------------------------------|${endcla}";
 echo -e $b "[i] Automatically deface vulnerable websites.          |${endcla}";
 echo -e "========================================================" | lolcat
 echo -e $b "🔻 17. Mass Deface                                     |${enda}";
