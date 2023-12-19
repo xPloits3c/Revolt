@@ -5,8 +5,8 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/AnonSecIta.svg?style=social&label=Follow)](https://twitter.com/AnonSecIta/)
 
  
-# All the tools you need!
-- You can install one at a time. (Type a nr to install)
+# All tools you need!
+- You can install one at time. (Type a nr to install)
 - You can install all package. (Type 01 to install all)
  
 ![sceglieinstalla](https://github.com/xPloits3c/Revolt/assets/153435050/4a9c16ad-8acd-4291-b7a2-ee0d97c9948c)
