@@ -7,7 +7,7 @@
 
 
  
-# All tools you need!
+# All tools you need
 - You can install one at time. (Type a nr to install)
 - You can install all package. (Type 01 to install all)
  
