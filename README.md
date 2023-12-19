@@ -3,8 +3,6 @@
 [![release v1.0 ](https://img.shields.io/badge/release-v1.0-green.svg?style=flat-square)](https://github.com/xPloits3c/revolt/releases/)
 [![Github Stars](https://img.shields.io/github/stars/xPloits3c/revolt.svg?style=social&label=Stars)](https://github.com/xPloits3c/Revolt/)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/AnonSecIta.svg?style=social&label=Follow)](https://twitter.com/AnonSecIta/)
-
-# Revolt v.1.0
 ![revoltlogomenu](https://github.com/xPloits3c/Revolt/assets/153435050/d64fdce1-eb0a-4ca1-91c2-61762560f8b2)
 
 # All the tools you need!
