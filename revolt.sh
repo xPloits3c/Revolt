@@ -33,8 +33,8 @@ echo  "[i] IN CODE WE TRUST                        |.-----.|" |lolcat
 echo  "[i] NR.T00LS : 30                           ||V . V||" | lolcat 
 echo  "[i] VERSION  : v1.0                         ||_.-._||" | lolcat
 echo  "[i] AUTHOR   : xPloits3c                    °--)-(--°" | lolcat
-echo  "╭─ 📁 The Installed tools are in /revolt  __[===-o]___" |lolcat
-echo  "╰─ 🌐 https://github.com/xPloits3c/      |__R3VCLT___)| $green " |lolcat
+echo  "╭─ 📁 The Installed tools are in /Revolt   __[===-o]___" |lolcat
+echo  "╰─ 🌐 https://github.com/xPloits3c/       |__R3VCLT___)| $green " |lolcat
 echo  "°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°" | lolcat
 
 
@@ -46,10 +46,10 @@ sleep 1
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo $green"[#]>🕷️I'M IN YOUR SYSTEM" |lolcat
+echo $green"[#]>🕷 I'M IN YOUR SYSTEM" |lolcat
 sleep 1
 
-echo $green"[#]>📁 The Installed tools are in /revolt" |lolcat
+echo $green"[#]>📁 The Installed tools are in /Revolt" |lolcat
 figlet REVOLT | lolcat
 sleep 1
 exit
