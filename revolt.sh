@@ -32,9 +32,9 @@ echo  "[i] AUTHOR   : xPloits3c                     _______" | lolcat
 echo  "[i] IN CODE  : WE TRUST                     |.-----.|" |lolcat
 echo  "[i] NR.T00LS : 30                           ||V . V||" | lolcat 
 echo  "[i] VERSION  : 1.0                          ||_.-._||" | lolcat
-echo  "╭─ 📁 The Installed tools are in /Revolt    °--)-(--°" | lolcat
-echo  "|─ 🌐 https://github.com/xPloits3c/Revolt  __[===-o]___" |lolcat
-echo  "╰─ 🌐 https://twitter.com/AnonSecIta      |__R3VCLT___)| $green " |lolcat
+echo  "╭───📁The Installed tools are in /Revolt    °--)-(--°" | lolcat
+echo  "|───🌐https://github.com/xPloits3c/Revolt  __[===-o]___" |lolcat
+echo  "╰───🌐https://twitter.com/AnonSecIta      |__R3VCLT___)| $green " |lolcat
 echo  "°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°" | lolcat
 
 
