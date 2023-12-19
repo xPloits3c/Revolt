@@ -43,6 +43,7 @@ cd Revolt
 
 bash revolt.sh
 
+ 
 - Type a number.
   
 24 (Dark-Dump)
