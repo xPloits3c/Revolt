@@ -4,7 +4,6 @@
 [![Github Stars](https://img.shields.io/github/stars/xPloits3c/revolt.svg?style=social&label=Stars)](https://github.com/xPloits3c/Revolt/)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/AnonSecIta.svg?style=social&label=Follow)](https://twitter.com/AnonSecIta/)
 
-![revoltlogomenu](https://github.com/xPloits3c/Revolt/assets/153435050/d64fdce1-eb0a-4ca1-91c2-61762560f8b2)
  
 # All the tools you need!
 - You can install one at a time. (Type a nr to install)
