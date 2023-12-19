@@ -46,10 +46,10 @@ sleep 1
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo $green"[#]>🕷 I'M IN YOUR SYSTEM" |lolcat
+echo $green"[#]> 🕷 I'M IN YOUR SYSTEM" |lolcat
 sleep 1
 
-echo $green"[#]>📁 The Installed tools are in /Revolt" |lolcat
+echo $green"[#]> 📁 The Installed tools are in /Revolt" |lolcat
 figlet REVOLT | lolcat
 sleep 1
 exit
@@ -219,11 +219,11 @@ echo -e $b "[i] Search SQL injection vulnerabilities.              |${endcla}";
 echo -e "========================================================" | lolcat
 echo -e $b " ❌ 00. EXIT                                           |${enda}";
 echo -e $b " 💣 01. INSTALL ALL                                    |${enda}";
-echo -e $b " 📁 The Installed tools are in /revolt                 |${enda}";
+echo -e $b " 📁 The Installed tools are in /Revolt                 |${enda}";
 echo -e "========================================================" | lolcat
-echo -e "╭─[Type NR]"
+echo -e "╭─[Type NR to install]"
 read -p "╰→xPloits3c@revolt:" pil;
-📁 THE INSTALLED TOOLS ARE IN THE revolt
+
 #Revolt
 
 case $pil in
@@ -776,7 +776,7 @@ echo -e "${y} -------------------------------"
 
 00) echo "🔴REVOLT" | lolcat
 echo "🕷️ I'M IN YOUR SYSTEM" | lolcat
-echo "📁 THE INSTALLED TOOLS ARE IN THE revolt" | lolcat
+echo "📁 The Installed tools are in /Revolt" | lolcat
 figlet REVOLT | lolcat
 exit
 ;;
