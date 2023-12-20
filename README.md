@@ -8,8 +8,8 @@
 
  
 # All tools you need
-- You can install one at time. (Type a nr to install)
-- You can install all package. (Type 01 to install all)
+- You can install one at time.
+- You can install all package.
  
 ![sceglieinstalla](https://github.com/xPloits3c/Revolt/assets/153435050/4a9c16ad-8acd-4291-b7a2-ee0d97c9948c)
 
