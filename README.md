@@ -45,7 +45,6 @@
    
 # 💻 Usage
     cd Revolt
-    
     sh revolt.sh
     
 # ⌨️ Type a number
