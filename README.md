@@ -20,6 +20,7 @@
 # Install Requirements
 
 - [+] Update
+   
   ...
   sudo apt-get update
   ...
