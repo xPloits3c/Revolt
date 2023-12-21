@@ -47,7 +47,7 @@
   
   ➕ sh revolt.sh
     
-# Type a number
+# ⌨️ Type a number
   
 ➕ - 24 (Dark-Dump) 
 
