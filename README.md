@@ -13,45 +13,45 @@
  
 ![sceglieinstalla](https://github.com/xPloits3c/Revolt/assets/153435050/4a9c16ad-8acd-4291-b7a2-ee0d97c9948c)
 
-# Requirements
+# 🟢 Requirements
 - Bash: an sh-compatible command language.
 - Colorama: A simple cross-platform API to print colored terminal text from Python applications.
 
-# Install Requirements
+# 🔧 Install Requirements
 
-- [ℹ️] Update
+- ℹ️ Update
    
-    [+] sudo apt-get update
+    ➕ sudo apt-get update
   
 ![sudoupdate](https://github.com/xPloits3c/Revolt/assets/153435050/58f11b7f-47a5-42a3-9c9e-4c1b7e32cc20)
  
-- [ℹ️] Install bash Using apt-get.
+- ℹ️ Install bash Using apt-get.
    
-    [+] sudo apt-get -y install bash
+    ➕ sudo apt-get -y install bash
   
 ![installbash](https://github.com/xPloits3c/Revolt/assets/153435050/e201f289-136a-483c-b715-935a49b28762)
     
-- [ℹ️] Install python3-colorama Using apt-get.
+- ℹ️ Install python3-colorama Using apt-get.
    
-    [+] sudo apt-get -y install python3-colorama
+    ➕ sudo apt-get -y install python3-colorama
 
 ![installcolorama](https://github.com/xPloits3c/Revolt/assets/153435050/8a29da90-c765-4b39-845c-736d2d8d6dea)
  
-# Install Revolt
+# 🔧 Install Revolt
 ![gitrevolt](https://github.com/xPloits3c/Revolt/assets/153435050/81bb2f8a-f840-423e-ba58-0b7721e26fe9) 
 
-  [+] git clone https://github.com/xPloits3c/Revolt.git
+  ➕ git clone https://github.com/xPloits3c/Revolt.git
    
-# Usage
-  [+] cd Revolt
+# 💻 Usage
+  ➕ cd Revolt
   
-  [+] sh revolt.sh
+  ➕ sh revolt.sh
     
 # Type a number
   
-[+] - 24 (Dark-Dump) 
-[+] - 19 (WPScan) 
-[+] - 01 to install 'all'
+➕ - 24 (Dark-Dump) 
+➕ - 19 (WPScan) 
+➕ - 01 to install 'all'
  
 ![revoltnrinstall](https://github.com/xPloits3c/Revolt/assets/153435050/baeed44b-e5cd-4cd0-a80b-52d397ca38c6)
 
