@@ -19,7 +19,7 @@
 
 # 🔧 Install Requirements
 
-- ℹ️ Update
+ℹ️ Update
    
     ➕ sudo apt-get update
   
