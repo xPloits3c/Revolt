@@ -20,9 +20,10 @@
 # Install Requirements
 
 - [+] Update
-     
-   
-  $ sudo apt-get update
+  ...
+
+  sudo apt-get update
+  ...
   
 ![sudoupdate](https://github.com/xPloits3c/Revolt/assets/153435050/58f11b7f-47a5-42a3-9c9e-4c1b7e32cc20)
  
