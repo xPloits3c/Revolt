@@ -40,12 +40,13 @@
 # 🔧 Install Revolt
 ![gitrevolt](https://github.com/xPloits3c/Revolt/assets/153435050/81bb2f8a-f840-423e-ba58-0b7721e26fe9) 
 
-   git clone https://github.com/xPloits3c/Revolt.git
+  
+    git clone https://github.com/xPloits3c/Revolt.git
    
 # 💻 Usage
-  ➕ cd Revolt
+    cd Revolt
   
-  ➕ sh revolt.sh
+    sh revolt.sh
     
 # ⌨️ Type a number
   
