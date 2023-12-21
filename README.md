@@ -30,6 +30,8 @@
      sudo apt-get -y install bash
   
 ![installbash](https://github.com/xPloits3c/Revolt/assets/153435050/e201f289-136a-483c-b715-935a49b28762)
+
+
     
 ℹ️ Install python3-colorama Using apt-get.
    
