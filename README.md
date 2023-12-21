@@ -50,7 +50,9 @@
 # Type a number
   
 ➕ - 24 (Dark-Dump) 
+
 ➕ - 19 (WPScan) 
+
 ➕ - 01 to install 'all'
  
 ![revoltnrinstall](https://github.com/xPloits3c/Revolt/assets/153435050/baeed44b-e5cd-4cd0-a80b-52d397ca38c6)
