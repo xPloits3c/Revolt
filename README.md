@@ -22,6 +22,7 @@
 - [+] Update
    
   ...
+   
   sudo apt-get update
   ...
   
