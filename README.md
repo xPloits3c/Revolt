@@ -41,7 +41,7 @@
 
 # Usage
 - cd Revolt
-- bash revolt.sh
+- sh revolt.sh
 
  
 # Type a number
