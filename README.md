@@ -20,20 +20,23 @@
 # Install Requirements
 
 - [+] Update
-
+     
+   
   $ sudo apt-get update
   
 ![sudoupdate](https://github.com/xPloits3c/Revolt/assets/153435050/58f11b7f-47a5-42a3-9c9e-4c1b7e32cc20)
  
 - [+] Install bash Using apt-get.
-...
+   
+   ...
   
   sudo apt-get -y install bash
   ...
 ![installbash](https://github.com/xPloits3c/Revolt/assets/153435050/e201f289-136a-483c-b715-935a49b28762)
   
 - [+] Install python3-colorama Using apt-get.
-...
+   
+   ...
   
   sudo apt-get -y install python3-colorama
 ...
