@@ -37,7 +37,7 @@
 
 ![installcolorama](https://github.com/xPloits3c/Revolt/assets/153435050/8a29da90-c765-4b39-845c-736d2d8d6dea)
  
-# 🔧 Install Revolt
+# 💿 Install Revolt
 ![gitrevolt](https://github.com/xPloits3c/Revolt/assets/153435050/81bb2f8a-f840-423e-ba58-0b7721e26fe9) 
 
   
