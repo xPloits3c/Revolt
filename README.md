@@ -20,27 +20,12 @@
 
 # 🔧 Install Requirements
 
-ℹ️ Update
    
-     sudo apt-get update
-  
-![sudoupdate](https://github.com/xPloits3c/Revolt/assets/153435050/58f11b7f-47a5-42a3-9c9e-4c1b7e32cc20)
- 
-ℹ️ Install bash Using apt-get.
-   
-     sudo apt-get -y install bash
-  
-![installbash](https://github.com/xPloits3c/Revolt/assets/153435050/e201f289-136a-483c-b715-935a49b28762)
-          
-ℹ️ Install python3-colorama Using apt-get.
-   
-     sudo apt-get -y install python3-colorama
-
-![installcolorama](https://github.com/xPloits3c/Revolt/assets/153435050/8a29da90-c765-4b39-845c-736d2d8d6dea)
-
-ℹ️ Install Lolcat
-
-     pip install lolcat
+    sudo apt-get update
+    pip install lolcat
+    sudo apt-get -y install figlet
+    sudo apt-get -y install bash
+    sudo apt-get -y install python3-colorama
  
 # 💿 Install Revolt
 ![gitrevolt](https://github.com/xPloits3c/Revolt/assets/153435050/81bb2f8a-f840-423e-ba58-0b7721e26fe9) 
