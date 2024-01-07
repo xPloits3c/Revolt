@@ -16,6 +16,7 @@
 # 🟢 Requirements
 - Bash: an sh-compatible command language.
 - Colorama: A simple cross-platform API to print colored terminal text from Python applications.
+- Lolcat – Display Text in Rainbow Colors
 
 # 🔧 Install Requirements
 
@@ -36,6 +37,10 @@
      sudo apt-get -y install python3-colorama
 
 ![installcolorama](https://github.com/xPloits3c/Revolt/assets/153435050/8a29da90-c765-4b39-845c-736d2d8d6dea)
+
+ℹ️ Install Lolcat
+
+     pip install lolcat
  
 # 💿 Install Revolt
 ![gitrevolt](https://github.com/xPloits3c/Revolt/assets/153435050/81bb2f8a-f840-423e-ba58-0b7721e26fe9) 
