@@ -14,9 +14,10 @@
 ![sceglieinstalla](https://github.com/xPloits3c/Revolt/assets/153435050/4a9c16ad-8acd-4291-b7a2-ee0d97c9948c)
 
 # 🟢 Requirements
-- Bash: an sh-compatible command language.
+- Bash: An sh-compatible command language.
 - Colorama: A simple cross-platform API to print colored terminal text from Python applications.
-- Lolcat – Display Text in Rainbow Colors
+- Lolcat: Display Text in Rainbow Colors
+- Figlet: Creates large characters out of ordinary screen characters.
 
 # 🔧 Install Requirements
 
