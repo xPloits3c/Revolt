@@ -2,11 +2,8 @@
 ![revoltlogo](https://github.com/xPloits3c/revolt/assets/153435050/ea41babb-e41b-4dc9-8fdc-3bbf08f11a8f)
 [![release v1.1 ](https://img.shields.io/badge/release-v1.1-green.svg?style=flat-square)](https://github.com/xPloits3c/revolt/releases/)
 [![Github Stars](https://img.shields.io/github/stars/xPloits3c/revolt.svg?style=social&label=Stars)](https://github.com/xPloits3c/Revolt/)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/AnonSecIta.svg?style=social&label=AnonSecIta)](https://twitter.com/AnonSecIta/)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/ANOVNI1.svg?style=social&label=ANOVNI1)](https://twitter.com/ANOVNI1/)
 
 
- 
 # All tools you need
 - You can install one at time.
 - You can install all tools.
@@ -49,6 +46,6 @@
 ![revoltnrinstall](https://github.com/xPloits3c/Revolt/assets/153435050/baeed44b-e5cd-4cd0-a80b-52d397ca38c6)
 
 
-# If u Like the project, leave a star on the repository!
+# If you Like the project, leave a star on the repository
 ![github_logo-602056228](https://github.com/xPloits3c/Revolt/assets/153435050/58620e25-748f-44ea-80a9-fc3797fcfa49)
 
