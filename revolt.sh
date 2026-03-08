@@ -34,7 +34,7 @@ echo  "[i] NR.T00LS : 35                           ||V . V||" | lolcat
 echo  "[i] VERSION  : 1.1                          ||_.-._||" | lolcat
 echo  "╭── 📁The Installed tools are in /Revolt    °--)-(--°" | lolcat
 echo  "|── 🌐https://github.com/xPloits3c/Revolt  __[===-o]___" |lolcat
-echo  "╰── 🌐https://twitter.com/ANOVNI1         |__R3VCLT___)| $green " |lolcat
+echo  "╰── 🌐x.com/ANOVNI1             |__R3VCLT___)| $green " |lolcat
 echo  "°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°" | lolcat
 
 
