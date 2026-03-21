@@ -20,7 +20,7 @@
 
    
     sudo apt-get update
-    pip install lolcat
+    sudo apt install lolcat
     sudo apt-get -y install figlet
     sudo apt-get -y install bash
     sudo apt-get -y install python3-colorama
